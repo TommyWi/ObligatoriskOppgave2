@@ -1,0 +1,7 @@
+C:\Users\Tjomm\source\repos\SimpleChess\SimpleChess\bin\Debug\SimpleChess.exe.config
+C:\Users\Tjomm\source\repos\SimpleChess\SimpleChess\bin\Debug\SimpleChess.exe
+C:\Users\Tjomm\source\repos\SimpleChess\SimpleChess\bin\Debug\SimpleChess.pdb
+C:\Users\Tjomm\source\repos\SimpleChess\SimpleChess\obj\Debug\SimpleChess.csprojAssemblyReference.cache
+C:\Users\Tjomm\source\repos\SimpleChess\SimpleChess\obj\Debug\SimpleChess.csproj.CoreCompileInputs.cache
+C:\Users\Tjomm\source\repos\SimpleChess\SimpleChess\obj\Debug\SimpleChess.exe
+C:\Users\Tjomm\source\repos\SimpleChess\SimpleChess\obj\Debug\SimpleChess.pdb
